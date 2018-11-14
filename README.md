@@ -1,2 +1,0 @@
-# GitHubUserApiAxiosReact
-Created with CodeSandbox
